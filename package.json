@@ -5,11 +5,11 @@
   "main": "build/InAppPurchases.js",
   "types": "build/InAppPurchases.d.ts",
   "scripts": {
-    "build": "expo-module build",
-    "clean": "expo-module clean",
+    "build": "echo",
+    "clean": "echo",
     "lint": "expo-module lint",
     "test": "expo-module test",
-    "prepare": "expo-module prepare",
+    "prepare": "echo",
     "prepublishOnly": "expo-module prepublishOnly",
     "expo-module": "expo-module"
   },
